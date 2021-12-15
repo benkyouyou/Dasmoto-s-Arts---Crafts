@@ -19,9 +19,6 @@ h2 {
     background-color: mediumspringgreen;
 }
 
-.sectionPic {
-    margin-left: 0px;
-}
 
 .framesSection h2 {
     background-color: lightcoral;
@@ -29,4 +26,15 @@ h2 {
 
 .paintSection h2 {
     background-color: skyblue;
+}
+
+.sectionPic {
+    margin-left: 0px;
+}
+
+.description em {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+    font-style: normal;
 }
